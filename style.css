@@ -1,0 +1,8 @@
+canvas {
+    border: 12x solid black;
+    background-color: cadetblue;
+}
+body {
+    margin: 0;
+    height: 100 vh;
+}
